@@ -1,10 +1,11 @@
 ## *Ahoj* 👋
 
-Aktualnie robie ruchy z [theGrupa123](https://github.com/orgs/AGH-Narzedzia-Informatyczne-2021-2022/teams/the-grupa123)
+Aktualnie robie ruchy z [theGrupa123](https://github.com/orgs/AGH-Narzedzia-Informatyczne-2021-2022/teams/the-grupa123) :busts_in_silhouette:
 
-Studiuję w AGH
+Studiuję w [AGH](https://www.agh.edu.pl) :book:
 
-Twórca [DarioBota](https://github.com/AGH-Narzedzia-Informatyczne-2021-2022/theGrupa123)
+Przyszły twórca [DarioBota](https://github.com/AGH-Narzedzia-Informatyczne-2021-2022/theGrupa123) :wheelchair:
+###### (może)
 
 <!--
 - 🔭 I’m currently working on ...
