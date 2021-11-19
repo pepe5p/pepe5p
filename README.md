@@ -1,10 +1,12 @@
-### Hi there 👋
+## *Ahoj* 👋
+
+Aktualnie robie ruchy z [theGrupa123](https://github.com/orgs/AGH-Narzedzia-Informatyczne-2021-2022/teams/the-grupa123)
+
+Studiuję w AGH
+
+Twórca [DarioBota](https://github.com/AGH-Narzedzia-Informatyczne-2021-2022/theGrupa123)
 
 <!--
-**pepe5p/pepe5p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
