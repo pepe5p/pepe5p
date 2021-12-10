@@ -1,3 +1,5 @@
+https://github.com/pepe5p/RNN_basketball.git
+
 ## *Ahoj* 👋
 
 Aktualnie robie ruchy z [theGrupa123](https://github.com/orgs/AGH-Narzedzia-Informatyczne-2021-2022/teams/the-grupa123) :busts_in_silhouette:
