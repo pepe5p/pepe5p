@@ -1,5 +1,5 @@
 
-## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
 I am Junior Python Developer in [SpotOn](https://github.com/SpotOnInc) and student of Computer Science and Intelligent Systems at [AGH](https://www.agh.edu.pl/).
 
